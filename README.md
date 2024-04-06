@@ -110,3 +110,4 @@ Follow these steps to run Techispot on your local machine:
 We welcome contributions from the community! If you have ideas, bug fixes, or new features to propose, feel free to submit a pull request.
 
 # TechieeSpot
+# TechieeSpot
